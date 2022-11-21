@@ -1,0 +1,1 @@
+Kali Linux comes with 2 RDP clients that are useful, `xfreerdp` and `rdesktop`
